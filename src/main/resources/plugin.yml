@@ -1,0 +1,11 @@
+name: HotItem
+version: '${version}'
+main: snw.hotitem.HotItem
+api-version: '1.20'
+authors: [SNWCreations]
+description: "Just like HotPotato :P"
+
+commands:
+  hotitem:
+    description: "Enable/Disable the feature of this plugin"
+    permission: op
